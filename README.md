@@ -1,3 +1,4 @@
 # hello-world
-first repository
-practice editing in separate branch
+first repository </br>
+practice editing in separate branch . 
+and formatting
